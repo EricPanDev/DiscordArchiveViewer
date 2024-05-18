@@ -20,3 +20,4 @@ This is the source code for the Archive Viewer hosted at https://archive-viewer.
 - Message sorting & search
 - Sticker support
 - Embed Support
+- Code cleanup and optimization
