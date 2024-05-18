@@ -1,4 +1,5 @@
 # Discord Archive Viewer
+### Demo is live at https://archive-viewer.ericpan.xyz/
 > [!WARNING]
 > This project is still under development. There may be bugs. Please submit any issues you encounter.
 
